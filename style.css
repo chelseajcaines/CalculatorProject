@@ -1,6 +1,6 @@
 *,
 *::before,
-*::afetr {
+*::after {
   box-sizing: border-box;
   font-family: Arial, sans-serif;
   font-weight: normal;
